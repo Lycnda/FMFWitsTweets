@@ -1,0 +1,122 @@
+#login_box {
+    	 position:relative;
+	     left:20%;
+       height: 100%;
+    }
+
+#sign_up_box {
+    	 position:relative;
+	     left:45%;
+
+    }
+
+body {
+    	 background: url("extra_clean_paper.png");
+       background-size: 100% 100%;
+    }
+
+    .container-fluid
+    {
+      background: url("extra_clean_paper.png");
+      background-size: 100% 100%;
+
+    }
+
+.side-nav
+{
+  background: url("bright_squares.png");
+  background-size: 100% 100%;
+}
+
+.navbar-fixed-top
+{
+	font-size:100%;
+	font-weight: bold;
+  background-color: #000000;
+  border-bottom: #F0FFF0;
+}
+
+.panel
+{
+
+  background: url("bright_squares.png");
+  background-size: 100% 100%;
+
+}
+
+.panel-heading
+{
+  text-align: center;
+}
+
+.panel-body
+{
+
+  background: url("bright_squares.png");
+  background-size: 100% 100%;
+  padding: 50px;
+}
+
+#login_panel
+{
+  left:45%;
+}
+
+#page-wrapper {
+    width: 100%;
+    padding: 0;
+
+}
+
+h1
+{
+	color:#20B2AA;
+	font-size:300%;
+	font-weight: bold;
+
+}
+
+#screen_login
+{
+	position:relative;
+  height:100%;
+}
+
+h2
+{
+	color:#20B2AA;
+	font-size:200%;
+	font-weight: bold;
+
+}
+
+h3
+{
+	color:#000000;
+	font-size:120%;
+	font-weight: bold;
+
+}
+
+#submit_b
+{
+  /*text-align: center;
+  left: 2%;*/
+  position:relative;;
+  bottom: 10%;
+  left: 40%;
+  right: 70%;
+  height: 100%;
+  /*top:40%;
+  width:10%;*/
+
+
+}
+
+ #logout_link_box
+ {
+   	position:absolute;
+    top:5%;
+    left:80%;
+    font-size:150%;
+ }

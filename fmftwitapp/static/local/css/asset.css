@@ -1,0 +1,22 @@
+body {
+  /*background-image: url("{% static 'local/css/bluebricks.jpg' %}");*/
+  /*background: url("bluebricks.jpg");*/
+  background: url("bricksblueless.jpg");
+  background-size: 100% 100%;
+  height:100%;
+    }
+
+
+
+.side-nav{
+  /*background: url("bright_squares.png");*/
+  background: url("bluebricks.jpg");
+  background-size: 100% 100%;
+    }
+
+    .container-fluid
+    {
+      padding: 0;
+    /*background: url("extra_clean_paper.png");*/
+    background-size: 100% 100%;
+    }

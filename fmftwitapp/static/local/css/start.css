@@ -1,0 +1,60 @@
+
+    #page_wrapper {
+        /*top:20%;*/
+        width: 100%;
+        
+        /*padding: 10;*/
+        /*background: url("extra_clean_paper.png");*/
+        /*background-size: 100% 100%;*/
+
+    }
+
+    #wrapper {
+        top:20%;
+        width: 100%;
+        
+        /*padding: 10;*/
+        /*background: url("extra_clean_paper.png");*/
+        /*background-size: 100% 100%;*/
+
+    }
+
+body {
+  /*background-image: url("{% static 'local/css/bluebricks.jpg' %}");*/
+  background: url("bricksblueless.jpg");
+  background-size: 100% 100%;
+  height:100%;
+    }
+
+
+    /*.container-fluid
+    {
+      padding: 0;
+    background-size: 100% 100%;
+    }*/
+
+
+h1
+{
+	color:#20B2AA;
+	font-size:500%;
+	font-weight: bold;
+
+}
+
+h2
+{
+	color:#20B2AA;
+	font-size:200%;
+	font-weight: bold;
+
+}
+
+h3
+{
+	color:#000000;
+	font-size:120%;
+	font-weight: bold;
+
+}
+
